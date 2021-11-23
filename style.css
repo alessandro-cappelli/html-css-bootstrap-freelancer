@@ -4,8 +4,28 @@
     box-sizing: border-box;
 }
 
+/* header */
 .container_header{
-    height: 50px;
-    background-color: aquamarine;
+    height: 70px;
+    background-color: #2C3E50;
     width: 100%;
+}
+
+.container{
+    height: 100%;
+}
+
+.nav_top{
+    height: 100%;
+    align-content: center;
+    color: white;
+}
+
+
+.title{
+    font-weight: bold;
+}
+
+.info{
+    display: flex;
 }
