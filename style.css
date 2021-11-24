@@ -76,3 +76,10 @@
 .ms_bottom{
     color: white;
 }
+
+
+/* footer */
+.ms_container_footer{
+    background-color: #3A546D;
+    color: white;
+}
