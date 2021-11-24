@@ -33,6 +33,22 @@
 
 /* main */
 .container-presentation{
-    height: 500px;
+    
     background-color: #1ABC9C;
+}
+
+.title_2{
+    text-align: center;
+}
+
+.container-portfolio{
+    
+}
+
+.img_column{
+    height: 165px;
+}
+
+ .img_contain div{
+    background-color: aquamarine;
 }
