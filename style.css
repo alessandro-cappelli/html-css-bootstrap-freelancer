@@ -57,6 +57,10 @@
 }
 
 /* portfolio */
+.container_portfolio{
+    height: 742px;
+}
+
 .img_column{
     height: 165px;
 }
@@ -68,4 +72,11 @@
 
  .img_contain div{
     background-color: aquamarine;
+}
+
+
+/* about */
+.ms_bg{
+    background-color: #1ABC9C;
+    color: white;
 }
