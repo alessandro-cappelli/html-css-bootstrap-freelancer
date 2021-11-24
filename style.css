@@ -57,12 +57,13 @@
 }
 
 /* portfolio */
-.container-portfolio{
-    
-}
-
 .img_column{
     height: 165px;
+}
+
+.img_size{
+    width: 100%;
+    border-radius: 15px;
 }
 
  .img_contain div{
