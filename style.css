@@ -27,20 +27,36 @@
 }
 
 .info{
-    display: flex;
+    text-align: center;
 }
 
 
 /* main */
-.container-presentation{
-    
+.container-presentation{  
     background-color: #1ABC9C;
+    color: white;
 }
 
-.title_2{
-    text-align: center;
+.ms_element_img{
+    width: 250px;
 }
 
+.ms_star{
+    max-width: 400px;
+    min-width: 100%;
+}
+
+.ms_star:before
+.ms_star:after{
+    content: '';
+    display: inline-block;
+    width: 15%;
+    height: 4px;
+    line-height: 4px;
+    background-color: white;
+}
+
+/* portfolio */
 .container-portfolio{
     
 }
