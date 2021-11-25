@@ -4,6 +4,7 @@
     box-sizing: border-box;
 }
 
+
 /* header */
 .ms_navbar_color{
     background-color: #2C3E50;
@@ -27,6 +28,7 @@
 .ms_star{
     max-width: 400px;
     min-width: 100%;
+    text-align: center;
 }
 
 .ms_star:before
@@ -38,6 +40,7 @@
     line-height: 4px;
     background-color: white;
 }
+
 
 /* portfolio */
 .img_size{
@@ -59,12 +62,22 @@
 .ms_bottom{
     color: white;
 }
+
+
 /* contact me */
 .form_border{
     border-bottom: 1px solid grey;
 }
+
+
 /* footer */
 .ms_container_footer{
     background-color: #3A546D;
+    color: white;
+}
+
+/* copyright */
+.container_copyright{
+    background-color: #2C3E50;
     color: white;
 }
