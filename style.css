@@ -5,29 +5,12 @@
 }
 
 /* header */
-.container_header{
-    height: 70px;
+.ms_navbar_color{
     background-color: #2C3E50;
-    width: 100%;
 }
-
-.header_top{
-    height: 100%;
-}
-
-.nav_top{
-    height: 100%;
-    align-content: center;
+ 
+.ms_navbar_brand_color{
     color: white;
-}
-
-
-.title{
-    font-weight: bold;
-}
-
-.info{
-    text-align: center;
 }
 
 
@@ -76,8 +59,10 @@
 .ms_bottom{
     color: white;
 }
-
-
+/* contact me */
+.form_border{
+    border-bottom: 1px solid grey;
+}
 /* footer */
 .ms_container_footer{
     background-color: #3A546D;
